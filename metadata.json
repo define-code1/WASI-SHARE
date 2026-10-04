@@ -1,0 +1,12 @@
+{
+  "name": "WASI SHARE - Secure Wireless File Transfer",
+  "description": "WASI SHARE: Simple. Secure. Yours. Fast, encrypted wireless file transfer between Windows PC and Android mobile over local Wi-Fi with QR pairing.",
+  "requestFramePermissions": [
+    "camera",
+    "clipboard-read",
+    "clipboard-write"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
